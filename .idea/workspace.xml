@@ -22,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="605" selection-start-line="605" selection-end-line="605" />
+            <state relative-caret-position="279">
+              <caret line="667" lean-forward="true" selection-start-line="667" selection-end-line="667" />
               <folding>
                 <element signature="n#style#0;n#button#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -142,6 +142,8 @@
       <find>mygame</find>
       <find>takes about</find>
       <find>if error</find>
+      <find>music</find>
+      <find>back-end</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -297,12 +299,12 @@
       <workItem from="1578782890049" duration="321000" />
       <workItem from="1578783549299" duration="324000" />
       <workItem from="1578786285069" duration="68000" />
-      <workItem from="1578786358067" duration="192000" />
+      <workItem from="1578786358067" duration="522000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="138427000" />
+    <option name="totallyTimeSpent" value="138757000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="831" extended-state="0" />
@@ -454,8 +456,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="605" selection-start-line="605" selection-end-line="605" />
+        <state relative-caret-position="279">
+          <caret line="667" lean-forward="true" selection-start-line="667" selection-end-line="667" />
           <folding>
             <element signature="n#style#0;n#button#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
