@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f14f3ed-7416-4639-a821-3753e813c241" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/music2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/game1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/whereiam.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/.2.png.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/.3.png.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/.8.png.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/.IMG_0755.GIF.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/.game1.png.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/.whereiam.png.icloud" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,19 +133,30 @@
       <workItem from="1582132061905" duration="180000" />
       <workItem from="1582580908341" duration="428000" />
       <workItem from="1582638487245" duration="457000" />
-      <workItem from="1586503250764" duration="607000" />
+      <workItem from="1586503250764" duration="876000" />
+      <workItem from="1588144051605" duration="30000" />
+      <workItem from="1588312647481" duration="3000" />
+      <workItem from="1588312671842" duration="4000" />
+      <workItem from="1588361945869" duration="598000" />
+      <workItem from="1588561838247" duration="884000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="417" y="290" key="com.intellij.ide.util.TipDialog" timestamp="1588561839478">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="417" y="290" key="com.intellij.ide.util.TipDialog/0.23.1440.830@0.23.1440.830" timestamp="1588561839478" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/index.html</url>
-          <line>162</line>
+          <line>164</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
